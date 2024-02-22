@@ -1,3 +1,4 @@
+// Create a table using DOM and bootstrap
 let table = document.createElement("table");
 table.className = "table"
 
